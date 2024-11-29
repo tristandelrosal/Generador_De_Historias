@@ -53,7 +53,7 @@ Este proyecto es una aplicación en Python que permite generar historias interac
 ## Ejemplo
 
 ### Arranque de *text-generation-webui* como API
-![Ejemplo de carga de la api del modelo](./images/abriendoApi.png)
+![Ejemplo de carga de la api del modelo](./images/cargaModelo.png)
 
 ### Entrada del Usuario
 ![Ejemplo de los inputs](./images/ejemploEntradas.png)
