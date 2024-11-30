@@ -24,8 +24,8 @@ Este proyecto es una aplicación en Python que permite generar historias interac
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/generador-historias.git
-   cd generador-historias
+   git clone https://github.com/tristandelrosal/Generador_De_Historias
+   cd Generador_De_Historias
    ```
 2. Instala las dependencias necesarias:
    ```bash
